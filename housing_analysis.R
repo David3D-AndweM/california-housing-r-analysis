@@ -1,9 +1,7 @@
 # R Programming Assignment - California Housing Data
-# Student: First Year Student
-# Date: January 21, 2026
 
 # Read the CSV data
-data <- read.csv("/Users/dave/Desktop/housing.csv")
+data <- read.csv("housing.csv")
 
 # Look at the first few rows of data
 head(data)
